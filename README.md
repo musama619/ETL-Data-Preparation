@@ -42,7 +42,7 @@
 
 # SSIS Errors
 * Truncation 
-  ** Occur when data is duplicated
+  * Occur when data is duplicated
 * Bad Input File Format
 * Connection Failure 
 
